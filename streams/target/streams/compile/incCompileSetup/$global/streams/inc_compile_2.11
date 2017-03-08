@@ -1,0 +1,493 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+44 items
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/common/package$.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/common/package.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$InfiniteLevel$.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$Level.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$Level0$.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$Level1$.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$delayedInit$body.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$1.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$legalNeighbors$1.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$moveFun$1.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$neighbors$1.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$neighbors$2.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block$.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Down$.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Left$.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Move.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Pos$.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Pos.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Right$.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Up$.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$class.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/InfiniteTerrain$$anonfun$1.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/InfiniteTerrain$class.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/InfiniteTerrain.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Solver$$anonfun$1.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Solver$$anonfun$from$1$$anonfun$apply$1.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Solver$$anonfun$from$1.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Solver$$anonfun$neighborsWithHistory$1.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Solver$$anonfun$newNeighborsOnly$1.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Solver$$anonfun$pathsToGoal$1.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Solver$class.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Solver.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$findChar$1$$anonfun$apply$1.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$findChar$1.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$findChar$2.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$terrainFunction$1.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$class.class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain.class
+binary dependencies:
+12 items
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> /Users/dominikszczepanski/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/dominikszczepanski/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/dominikszczepanski/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/dominikszczepanski/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> /Users/dominikszczepanski/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/dominikszczepanski/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+7 items
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> /Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+6 items
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> /Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala
+inheritance external dependencies:
+0 items
+class names:
+44 items
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> common.package
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> common.package$
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$InfiniteLevel$
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$Level
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$Level0$
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$Level1$
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$delayedInit$body
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block$
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block$$anonfun$1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block$$anonfun$legalNeighbors$1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block$$anonfun$moveFun$1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block$$anonfun$neighbors$1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block$$anonfun$neighbors$2
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Down$
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Left$
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Move
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Pos
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Pos$
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Right$
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Up$
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> streams.InfiniteTerrain
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> streams.InfiniteTerrain$$anonfun$1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> streams.InfiniteTerrain$class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> streams.Solver
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$from$1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$from$1$$anonfun$apply$1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$neighborsWithHistory$1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$newNeighborsOnly$1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$pathsToGoal$1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> streams.Solver$class
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$findChar$1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$findChar$1$$anonfun$apply$1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$findChar$2
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$terrainFunction$1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$class
+used names:
+238 items
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> ::
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> <init>
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> <repeated>
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> Any
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> AnyRef
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> File
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> FileInputStream
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> InputStream
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> List
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> None
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> Nothing
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> Option
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> Predef
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> String
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> _root_
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> child
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> children
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> classesDir
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> common
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> exists
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> file
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> foldLeft
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> getClass
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> getParentFile
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> getResource
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> io
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> java
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> package
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> projectDir
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> resourceFile
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> resourcePath
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> scala
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> subFile
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> toURI
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> <init>
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> App
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Bloxorz
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> InfiniteLevel
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> InfiniteTerrain
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Level
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Level0
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Level1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Predef
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Solver
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> StringParserTerrain
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> augmentString
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> goal
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> level
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> println
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> scala
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> solution
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> startPos
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> streams
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> stripMargin
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> &&
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> +
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> <=
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> <init>
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> ==
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> AbstractFunction2
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> AnyRef
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> Block
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> Boolean
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> Down
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> Function1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> GameDef
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> Int
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> Left
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> List
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> Move
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> None
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> Pos
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> Predef
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> Product
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> Right
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> ScalaRunTime
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> Serializable
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> Statics
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> Terrain
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> Tuple2
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> Up
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> _1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> _2
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> _hashCode
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> _root_
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> _toString
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> apply
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> asInstanceOf
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> b1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> b2
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> block
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> canBuildFrom
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> col
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> common
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> d
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> d1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> d2
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> deltaCol
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> deltaRow
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> down
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> eq
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> filter
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> finalizeHash
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> immutable
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> isInstanceOf
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> isLegal
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> isStanding
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> left
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> map
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> mix
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> move
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> moveFun
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> moves
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> ne
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> neighbors
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> package
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> require
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> right
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> row
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> runtime
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> scala
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> startPos
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> terrain
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> toString
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> typedProductIterator
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> unchecked
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> up
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> x
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> x$3
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> x$4
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> ||
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> GameDef
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> InfiniteTerrain
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> Pos
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> Terrain
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> streams
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> terrain
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> #:::
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> &&
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> ++
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> ::
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> ==
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> >
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> Block
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> Boolean
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> GameDef
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> List
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> Move
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> Nil
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> Predef
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> Set
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> Solver
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> Stream
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> Tuple2
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> _1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> _2
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> apply
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> b
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> b1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> canBuildFrom
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> consWrapper
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> contains
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> empty
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> explored
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> filter
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> flatMap
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> from
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> goal
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> head
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> history
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> immutable
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> initial
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> isEmpty
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> isLegal
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> isStanding
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> legalNeighbors
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> length
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> map
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> more
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> neighbors
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> neighborsWithHistory
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> newNeighborsOnly
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> package
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> pathsFromStart
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> pathsToGoal
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> reverse
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> scala
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> startBlock
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> streams
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> toStream
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> unary_!
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> x
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> !=
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> &&
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> ==
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> >
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> >=
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Array
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Boolean
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Char
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> ClassTag
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Function1
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> GameDef
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Pos
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Predef
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> String
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> StringParserTerrain
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Terrain
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Vector
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> _root_
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> apply
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> c
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> canBuildFrom
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> col
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> common
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> findChar
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> head
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> immutable
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> indexOf
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> indexWhere
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> length
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> level
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> levelVector
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> map
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> materializeClassTag
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> package
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> refArrayOps
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> row
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> scala
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> split
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> str
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> streams
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> terrainFunction
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> vector
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> withFilter
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> wrapString
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> x
+product stamps:
+44 items
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/common/package$.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/common/package.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$InfiniteLevel$.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$Level.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$Level0$.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$Level1$.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$delayedInit$body.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$1.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$legalNeighbors$1.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$moveFun$1.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$neighbors$1.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$neighbors$2.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block$.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Down$.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Left$.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Move.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Pos$.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Pos.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Right$.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Up$.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef$class.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/GameDef.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/InfiniteTerrain$$anonfun$1.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/InfiniteTerrain$class.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/InfiniteTerrain.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Solver$$anonfun$1.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Solver$$anonfun$from$1$$anonfun$apply$1.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Solver$$anonfun$from$1.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Solver$$anonfun$neighborsWithHistory$1.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Solver$$anonfun$newNeighborsOnly$1.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Solver$$anonfun$pathsToGoal$1.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Solver$class.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/Solver.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$findChar$1$$anonfun$apply$1.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$findChar$1.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$findChar$2.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$terrainFunction$1.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$class.class -> lastModified(1488507923000)
+/Users/dominikszczepanski/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain.class -> lastModified(1488507923000)
+source stamps:
+6 items
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> hash(1f1e1210e763c5fc0c82387ec0ddc39a929d9118)
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> hash(a1f9ae41500931e3ed0285929f684719b0c1758b)
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> hash(bb43830f6c61b8ab29553af959146eb9d8850dff)
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> hash(bd69624d72bd311110415174c01abdd557f289ef)
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> hash(6d7ad0a8b65f0380920daf53bc8cadab6861dae0)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1466589303000)
+/Users/dominikszczepanski/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/dominikszczepanski/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.collection.immutable.Vector$
+internal apis:
+6 items
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AXwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBmc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXNxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH50AAVzY2FsYXEAfgCFcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqR/FVvdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARS9Vc2Vycy9kb21pbmlrc3pjemVwYW5za2kvRG93bmxvYWRzL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIhbjxKlsqg9rWWPdswf3WeKONSo
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCXng69AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAUHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFtRjxZ0AARkb3duc3EAfgAMEWMC33QABm5vdGlmeXNxAH4ADAgaBWl0AAd1bmFwcGx5c3EAfgAMrnJIqXQAB2N1cnJpZWRzcQB+AAx8tPJcdAAFTGV2ZWxzcQB+AAxo6DFJdAAIZGVsdGFSb3dzcQB+AAwSRSpYdAAEd2FpdHNxAH4ADLKfaFB0AAhkZWx0YUNvbHNxAH4ADLOKfdR0AAJiMnNxAH4ADGT+6l50AA5sZWdhbE5laWdoYm9yc3NxAH4ADPTwDBh0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADNcaqmd0AA0kYXNJbnN0YW5jZU9mc3EAfgAMKOEF4nQAEG5ld05laWdoYm9yc09ubHlzcQB+AAyEEQQhdAAGTGV2ZWwwc3EAfgAMgBtQ/nQADHByb2R1Y3RBcml0eXNxAH4ADNZpPVt0AA5wYXRoc0Zyb21TdGFydHNxAH4ADFHUBPd0AAZlcXVhbHNzcQB+AAw2SnpMdAACdXBzcQB+AAyXmjLEdAAHQmxveG9yenNxAH4ADC7M2oV0AAdtb3ZlRnVuc3EAfgAMoHQt0XQADGFzSW5zdGFuY2VPZnNxAH4ADHgplqV0AA5leGVjdXRpb25TdGFydHNxAH4ADIWTzzV0AAVtb3Zlc3NxAH4ADB1VM9R0AAluZWlnaGJvcnNzcQB+AAzPYvAodAAMc3luY2hyb25pemVkc3EAfgAMv6p46nQABGxlZnRzcQB+AAycRGYzdAANJGlzSW5zdGFuY2VPZnNxAH4ADB2nTHl0AAZ0dXBsZWRzcQB+AAwkGPALdAAEZ29hbHNxAH4ADAfFBLF0AAJiMXNxAH4ADPu5BN50AAhjYW5FcXVhbHNxAH4ADDL6k5Z0AANyb3dzcQB+AAyx0hTEdAAEbWFpbnNxAH4ADEYG76V0AA90ZXJyYWluRnVuY3Rpb25zcQB+AAxNJ7qTdAANcHJvZHVjdFByZWZpeHNxAH4ADPkx90x0AAZMZXZlbDFzcQB+AAyaoyvudAAJbm90aWZ5QWxsc3EAfgAMXN6Lf3QAC3JlYWRSZXNvbHZlc3EAfgAMx1+aWHQADGlzSW5zdGFuY2VPZnNxAH4ADFPl7GF0AAhzb2x1dGlvbnNxAH4ADCVJ5c90AAY8aW5pdD5zcQB+AAztHRohdAAETW92ZXNxAH4ADFhoWBd0AAVhcHBseXNxAH4ADDwOxXt0AAI9PXNxAH4ADNn32wl0AANjb2xzcQB+AAw4Zq6EdAAERG93bnNxAH4ADBwMvvJ0AARMZWZ0c3EAfgAMYC6S6nQABWNsb25lc3EAfgAM69Te23QAB3RlcnJhaW5zcQB+AAzd9zihdAALcGF0aHNUb0dvYWxzcQB+AAwsSkU2dAAEZnJvbXNxAH4ADOotF+d0AAdpc0xlZ2Fsc3EAfgAMgZ9v8XQACnN0YXJ0QmxvY2tzcQB+AAzvRBsJdAAKaXNTdGFuZGluZ3NxAH4ADHgsITp0AAJVcHNxAH4ADKrm4E50AARjb3B5c3EAfgAMb5qiLHQABGRvbmVzcQB+AAxePmqQdAAIdG9TdHJpbmdzcQB+AAx2Dd35dAAEYXJnc3NxAH4ADB8zUyF0AAhmaW5kQ2hhcnNxAH4ADOoNkot0AA1JbmZpbml0ZUxldmVsc3EAfgAMRA53NnQAA1Bvc3NxAH4ADEFN3gJ0AAIhPXNxAH4ADDm6s2J0AAhnZXRDbGFzc3NxAH4ADMV6mWt0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADAhINjt0ABRuZWlnaGJvcnNXaXRoSGlzdG9yeXNxAH4ADCfexMB0AAdUZXJyYWluc3EAfgAMPNnO73QAAm5lc3EAfgAMhlw+RnQACHN0YXJ0UG9zc3EAfgAMEcg+4nQABUJsb2Nrc3EAfgAMz9EiE3QABVJpZ2h0c3EAfgAMeSFijHQAAmVxc3EAfgAMdpLJb3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADGT5L1F0AAVyaWdodHNxAH4ADIk0KBh0AAtkZWxheWVkSW5pdHNxAH4ADDcNim50AAIjI3NxAH4ADGA+95d0AAhmaW5hbGl6ZXNxAH4ADFt025l0AA5wcm9kdWN0RWxlbWVudHNxAH4ADKh4/st0AAhoYXNoQ29kZXNxAH4ADMPZYsB0AAVsZXZlbHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ALd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA9zdHJlYW1zLkJsb3hvcnp1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgDSeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgDRAHBzcQB+ANZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4At0wACWluaGVyaXRlZHEAfgC3TAAHcGFyZW50c3EAfgC3eHEAfgDac3EAfgDRAHBzcQB+ANZ1cQB+ALIAAAAAc3EAfgDRAHBzcQB+ANZ1cQB+ALIAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+ALhxAH4AwXVxAH4AwgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AOd4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4A2XQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgDZc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgEBc3EAfgDEAHEAfgBPdXEAfgDHAAAAAHNxAH4A9HQABFVuaXRxAH4A+nVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AOd4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AMp0AAVQbGFpbnEAfgCDc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgD1WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgDZc3EAfgD0dAAFQXJyYXlxAH4A+nVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgD0dAAGU3RyaW5nc3EAfgD4c3EAfgD7dXEAfgD+AAAAA3NxAH4BAHQABGphdmFzcQB+AQB0AARsYW5ncQB+AQVzcQB+ANEAcHNxAH4A1nVxAH4BHAAAAARzcQB+APR0AANBcHBxAH4A+nNxAH4A9HQAC0RlbGF5ZWRJbml0cQB+APpzcQB+APR0AAZPYmplY3RxAH4BIHNxAH4A9HQAA0FueXEAfgD6dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc3RyZWFtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpH8VW91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABFL1VzZXJzL2RvbWluaWtzemN6ZXBhbnNraS9Eb3dubG9hZHMvc3RyZWFtcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUHx4SEOdjxfwMgjh+wN3DmpKdkRg=
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAyA/iLAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAP3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFlVlFN0AARkb3duc3EAfgAMvdJppnQABm5vdGlmeXNxAH4ADJcH+gt0AAd1bmFwcGx5c3EAfgAM2YYck3QAB2N1cnJpZWRzcQB+AAwGSwGsdAAIZGVsdGFSb3dzcQB+AAwT4L6tdAAHR2FtZURlZnNxAH4ADOw3+ON0AAR3YWl0c3EAfgAMQpesLHQACGRlbHRhQ29sc3EAfgAMCkTtG3QAAmIyc3EAfgAMKOlC23QADmxlZ2FsTmVpZ2hib3Jzc3EAfgAMTYqNlnQADmNvcHkkZGVmYXVsdCQyc3EAfgAMhMgfXXQADSRhc0luc3RhbmNlT2ZzcQB+AAzVJDEAdAAMcHJvZHVjdEFyaXR5c3EAfgAMjgx4NXQABmVxdWFsc3NxAH4ADE1Z7ix0AAJ1cHNxAH4ADAkD+Ep0AAdtb3ZlRnVuc3EAfgAM8GL7tHQADGFzSW5zdGFuY2VPZnNxAH4ADJVcz+R0AAVtb3Zlc3NxAH4ADECnES10AAluZWlnaGJvcnNzcQB+AAyGzDaydAAMc3luY2hyb25pemVkc3EAfgAMijTHtXQABGxlZnRzcQB+AAzT1UOHdAANJGlzSW5zdGFuY2VPZnNxAH4ADNPJPzd0AAZ0dXBsZWRzcQB+AAzqzSUGdAAEZ29hbHNxAH4ADLOOsqF0AAJiMXNxAH4ADHbIbjB0AAhjYW5FcXVhbHNxAH4ADJrAg1t0AANyb3dzcQB+AAwj8QVQdAANcHJvZHVjdFByZWZpeHNxAH4ADIuGSHx0AAlub3RpZnlBbGxzcQB+AAzIOftTdAALcmVhZFJlc29sdmVzcQB+AAyE8c3jdAAMaXNJbnN0YW5jZU9mc3EAfgAM2sv1G3QABjxpbml0PnNxAH4ADOf/R2l0AARNb3Zlc3EAfgAMSTYBMXQABWFwcGx5c3EAfgAMor1a+3QAAj09c3EAfgAMSC7wHnQAA2NvbHNxAH4ADAQUrnl0AAREb3duc3EAfgAMO1PkinQABExlZnRzcQB+AAwdgMdIdAAFY2xvbmVzcQB+AAwFamkOdAAHdGVycmFpbnNxAH4ADC0HUs50AAYkaW5pdCRzcQB+AAwArlCadAAHaXNMZWdhbHNxAH4ADCuz9gt0AApzdGFydEJsb2Nrc3EAfgAMTwgz4HQACmlzU3RhbmRpbmdzcQB+AAy5kB8cdAACVXBzcQB+AAyNMxxUdAAEY29weXNxAH4ADC2x1rV0AAh0b1N0cmluZ3NxAH4ADEAiZh50AANQb3NzcQB+AAwUlQEjdAACIT1zcQB+AAwkFslTdAAIZ2V0Q2xhc3NzcQB+AAzNaSfIdAAOY29weSRkZWZhdWx0JDFzcQB+AAyieO1OdAAHVGVycmFpbnNxAH4ADIy85Ll0AAJuZXNxAH4ADJUJ0n10AAhzdGFydFBvc3NxAH4ADMvT7L90AAVCbG9ja3NxAH4ADB75LzZ0AAVSaWdodHNxAH4ADObBo1t0AAJlcXNxAH4ADFoemSx0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAz+eouNdAAFcmlnaHRzcQB+AAyXRFAOdAACIyNzcQB+AAzMnDtwdAAIZmluYWxpemVzcQB+AAwMZeNXdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzsJlyFdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHABdAAPc3RyZWFtcy5HYW1lRGVmdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCueHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCtAHBzcQB+ALJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AlUwACWluaGVyaXRlZHEAfgCVTAAHcGFyZW50c3EAfgCVeHEAfgC2c3EAfgCtAHBzcQB+ALJ1cQB+AJAAAAAAc3EAfgCtAHBzcQB+ALJ1cQB+AJAAAAAAc3EAfgCtAHBzcQB+ALJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ANJ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ANNzcQB+AMZ0AANBbnlzcQB+AMpzcQB+AM11cQB+ANAAAAACc3EAfgDSdAAFc2NhbGFxAH4A2XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB3N0cmVhbXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqR/FVvdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARS9Vc2Vycy9kb21pbmlrc3pjemVwYW5za2kvRG93bmxvYWRzL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFKH5rkFQCTHj7QKFkp9oRxmwwXWL
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDWR+0MAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAP3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJif0hJ0AARkb3duc3EAfgAM7VYiKHQABm5vdGlmeXNxAH4ADPcLAUp0AAd1bmFwcGx5c3EAfgAMYSyYAXQAB2N1cnJpZWRzcQB+AAwZjIaqdAAIZGVsdGFSb3dzcQB+AAwvvhvgdAAEd2FpdHNxAH4ADLqY8210AAhkZWx0YUNvbHNxAH4ADJHxPr50AAJiMnNxAH4ADF0GfNl0AA5sZWdhbE5laWdoYm9yc3NxAH4ADEL3NUR0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADMuAbuF0AA0kYXNJbnN0YW5jZU9mc3EAfgAMehXNDHQADHByb2R1Y3RBcml0eXNxAH4ADJXH5tx0AAZlcXVhbHNzcQB+AAwgQ0H1dAACdXBzcQB+AAwVrltcdAAPSW5maW5pdGVUZXJyYWluc3EAfgAMXtA2THQAB21vdmVGdW5zcQB+AAz7+efxdAAMYXNJbnN0YW5jZU9mc3EAfgAMATVMmHQABW1vdmVzc3EAfgAMAc92NnQACW5laWdoYm9yc3NxAH4ADEjkPdJ0AAxzeW5jaHJvbml6ZWRzcQB+AAxVBfbgdAAEbGVmdHNxAH4ADO9lNup0AA0kaXNJbnN0YW5jZU9mc3EAfgAMAkdo0HQABnR1cGxlZHNxAH4ADBlbEH50AARnb2Fsc3EAfgAMWbxo+XQAAmIxc3EAfgAMks+iHHQACGNhbkVxdWFsc3EAfgAMH74rXnQAA3Jvd3NxAH4ADJI5x8J0AA1wcm9kdWN0UHJlZml4c3EAfgAM+kTJD3QACW5vdGlmeUFsbHNxAH4ADEjh+Sl0AAtyZWFkUmVzb2x2ZXNxAH4ADKaIPUZ0AAxpc0luc3RhbmNlT2ZzcQB+AAwP3pepdAAGPGluaXQ+c3EAfgAMetnr63QABE1vdmVzcQB+AAy5ZWmPdAAFYXBwbHlzcQB+AAzA4WYvdAACPT1zcQB+AAyGOaf0dAADY29sc3EAfgAM0ejxGnQABERvd25zcQB+AAyj0KvWdAAETGVmdHNxAH4ADKI2dEZ0AAVjbG9uZXNxAH4ADDlB3ht0AAd0ZXJyYWluc3EAfgAMyApaJXQABiRpbml0JHNxAH4ADKp8mUF0AAdpc0xlZ2Fsc3EAfgAMgRjmE3QACnN0YXJ0QmxvY2tzcQB+AAwwnQsVdAAKaXNTdGFuZGluZ3NxAH4ADM+vBPV0AAJVcHNxAH4ADLkINiF0AARjb3B5c3EAfgAMmHL2VXQACHRvU3RyaW5nc3EAfgAMDvd9n3QAA1Bvc3NxAH4ADOilu5h0AAIhPXNxAH4ADD6/97R0AAhnZXRDbGFzc3NxAH4ADGhPiPV0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADBBpLyx0AAdUZXJyYWluc3EAfgAMCWTOt3QAAm5lc3EAfgAM89LEbnQACHN0YXJ0UG9zc3EAfgAM7OdJgnQABUJsb2Nrc3EAfgAMLnzBknQABVJpZ2h0c3EAfgAMsirCR3QAAmVxc3EAfgAMHoDz8HQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADHwBVd10AAVyaWdodHNxAH4ADL44HpR0AAIjI3NxAH4ADJU+P350AAhmaW5hbGl6ZXNxAH4ADM6Mrfd0AA5wcm9kdWN0RWxlbWVudHNxAH4ADBRhPZx0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0ABdzdHJlYW1zLkluZmluaXRlVGVycmFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Arnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ArQBwc3EAfgCyc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJVMAAlpbmhlcml0ZWRxAH4AlUwAB3BhcmVudHNxAH4AlXhxAH4AtnNxAH4ArQBwc3EAfgCydXEAfgCQAAAAAHNxAH4ArQBwc3EAfgCydXEAfgCQAAAAAHNxAH4ArQBwc3EAfgCydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC1dAAHR2FtZURlZnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AtXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAHc3RyZWFtc3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDTc3EAfgDGdAAGT2JqZWN0c3EAfgDKc3EAfgDNdXEAfgDQAAAAA3NxAH4A0nQABGphdmFzcQB+ANJ0AARsYW5ncQB+ANdzcQB+AMZ0AANBbnlzcQB+AMpzcQB+AM11cQB+ANAAAAACc3EAfgDSdAAFc2NhbGFxAH4A13VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB3N0cmVhbXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqR/FVvdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARS9Vc2Vycy9kb21pbmlrc3pjemVwYW5za2kvRG93bmxvYWRzL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLtDgw9sYbirKVU6+VkUbrnYhQ3/
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB7q7vaAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAARnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHzfVeF0AARkb3duc3EAfgAMLlnRBXQABm5vdGlmeXNxAH4ADDA7eH10AAd1bmFwcGx5c3EAfgAMxuRtaXQAB2N1cnJpZWRzcQB+AAyYze2ydAAIZGVsdGFSb3dzcQB+AAx+Nr3/dAAEd2FpdHNxAH4ADMfmE+N0AAhkZWx0YUNvbHNxAH4ADApNWSd0AAJiMnNxAH4ADCybBM90AA5sZWdhbE5laWdoYm9yc3NxAH4ADFVLudh0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADLtyUj50AA0kYXNJbnN0YW5jZU9mc3EAfgAMjNapfnQAEG5ld05laWdoYm9yc09ubHlzcQB+AAzTD7vwdAAMcHJvZHVjdEFyaXR5c3EAfgAMgm2UDHQADnBhdGhzRnJvbVN0YXJ0c3EAfgAMsLJ3I3QABmVxdWFsc3NxAH4ADLlsdlF0AAJ1cHNxAH4ADHbOr650AAdtb3ZlRnVuc3EAfgAMCC+1eHQADGFzSW5zdGFuY2VPZnNxAH4ADH6jpLp0AAVtb3Zlc3NxAH4ADBmxdAh0AAluZWlnaGJvcnNzcQB+AAyoDyFGdAAMc3luY2hyb25pemVkc3EAfgAM2Ut8I3QABGxlZnRzcQB+AAycED6KdAANJGlzSW5zdGFuY2VPZnNxAH4ADJSYOY50AAZ0dXBsZWRzcQB+AAwL8CdZdAAEZ29hbHNxAH4ADEa5qbB0AAJiMXNxAH4ADJo0DZR0AAhjYW5FcXVhbHNxAH4ADJKl01l0AANyb3dzcQB+AAyTKB8NdAANcHJvZHVjdFByZWZpeHNxAH4ADOzOaMN0AAlub3RpZnlBbGxzcQB+AAw9UYSydAALcmVhZFJlc29sdmVzcQB+AAxkfepvdAAMaXNJbnN0YW5jZU9mc3EAfgAMQKMMH3QACHNvbHV0aW9uc3EAfgAMY993Q3QABjxpbml0PnNxAH4ADDGFxRB0AARNb3Zlc3EAfgAMG4wdFnQABWFwcGx5c3EAfgAMiKxoq3QAAj09c3EAfgAMufrg+3QAA2NvbHNxAH4ADFSOxGF0AAREb3duc3EAfgAMLkUX+XQABExlZnRzcQB+AAz3sqU3dAAFY2xvbmVzcQB+AAyVt4hRdAAHdGVycmFpbnNxAH4ADH2STmh0AAtwYXRoc1RvR29hbHNxAH4ADLcAgoF0AARmcm9tc3EAfgAMxUbQvHQABiRpbml0JHNxAH4ADOM7ptV0AAdpc0xlZ2Fsc3EAfgAM+SXN2HQACnN0YXJ0QmxvY2tzcQB+AAzpjdGgdAAKaXNTdGFuZGluZ3NxAH4ADE+d59t0AAJVcHNxAH4ADIbbG6x0AARjb3B5c3EAfgAMZo/vOXQABGRvbmVzcQB+AAzP9FX6dAAGU29sdmVyc3EAfgAMiY3iH3QACHRvU3RyaW5nc3EAfgAMt9iswHQAA1Bvc3NxAH4ADAbWzFh0AAIhPXNxAH4ADEJUnEB0AAhnZXRDbGFzc3NxAH4ADF19ICh0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADAjpHWR0ABRuZWlnaGJvcnNXaXRoSGlzdG9yeXNxAH4ADNaHNVR0AAdUZXJyYWluc3EAfgAMuOjMgnQAAm5lc3EAfgAMTQ+6P3QACHN0YXJ0UG9zc3EAfgAM3q4F43QABUJsb2Nrc3EAfgAM1Kxd7HQABVJpZ2h0c3EAfgAML+5hU3QAAmVxc3EAfgAM92feF3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADJeJpzF0AAVyaWdodHNxAH4ADG0cw3J0AAIjI3NxAH4ADF7Q56t0AAhmaW5hbGl6ZXNxAH4ADDVCxdl0AA5wcm9kdWN0RWxlbWVudHNxAH4ADKwgQO10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AKN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0AA5zdHJlYW1zLlNvbHZlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AvHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AuwBwc3EAfgDAc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AKNMAAlpbmhlcml0ZWRxAH4Ao0wAB3BhcmVudHNxAH4Ao3hxAH4AxHNxAH4AuwBwc3EAfgDAdXEAfgCeAAAAAHNxAH4AuwBwc3EAfgDAdXEAfgCeAAAAAHNxAH4AuwBwc3EAfgDAdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDDdAAHR2FtZURlZnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Aw3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAHc3RyZWFtc3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDhc3EAfgDUdAAGT2JqZWN0c3EAfgDYc3EAfgDbdXEAfgDeAAAAA3NxAH4A4HQABGphdmFzcQB+AOB0AARsYW5ncQB+AOVzcQB+ANR0AANBbnlzcQB+ANhzcQB+ANt1cQB+AN4AAAACc3EAfgDgdAAFc2NhbGFxAH4A5XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB3N0cmVhbXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqR/FVvdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARS9Vc2Vycy9kb21pbmlrc3pjemVwYW5za2kvRG93bmxvYWRzL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFL1pYk1yvTEREEFRdMAavdVX8onv
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBMGsyPAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQ3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLVGtDN0AARkb3duc3EAfgAMX+sB43QABm5vdGlmeXNxAH4ADP3BfkV0AAd1bmFwcGx5c3EAfgAMtDxbCnQAB2N1cnJpZWRzcQB+AAzfIbi3dAAIZGVsdGFSb3dzcQB+AAw+EbA+dAAEd2FpdHNxAH4ADNO7P8t0AAhkZWx0YUNvbHNxAH4ADNX6of10AAJiMnNxAH4ADP5chyJ0AA5sZWdhbE5laWdoYm9yc3NxAH4ADPNmtdV0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADI9WcNJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAM0EcQqnQADHByb2R1Y3RBcml0eXNxAH4ADCd+z7x0AAZlcXVhbHNzcQB+AAwmCV2IdAACdXBzcQB+AAwW2hRqdAAHbW92ZUZ1bnNxAH4ADAfuf3F0AAxhc0luc3RhbmNlT2ZzcQB+AAxnQ+RBdAAFbW92ZXNzcQB+AAzCGawddAAJbmVpZ2hib3Jzc3EAfgAM3mDFFXQABnZlY3RvcnNxAH4ADAkyAP10AAxzeW5jaHJvbml6ZWRzcQB+AAwLlZI0dAAEbGVmdHNxAH4ADBpwagx0AA0kaXNJbnN0YW5jZU9mc3EAfgAM2e6i53QABnR1cGxlZHNxAH4ADKKdTKx0AARnb2Fsc3EAfgAMdZL45HQAAmIxc3EAfgAMKBrMgXQACGNhbkVxdWFsc3EAfgAMwElt4XQAA3Jvd3NxAH4ADElkynN0AA90ZXJyYWluRnVuY3Rpb25zcQB+AAwXvDdDdAANcHJvZHVjdFByZWZpeHNxAH4ADF0PAiZ0AAlub3RpZnlBbGxzcQB+AAxrG717dAALcmVhZFJlc29sdmVzcQB+AAw0E9N9dAAMaXNJbnN0YW5jZU9mc3EAfgAMBbZ4S3QABjxpbml0PnNxAH4ADB3/j990AARNb3Zlc3EAfgAMZlyErnQABWFwcGx5c3EAfgAMI1Zzy3QAAj09c3EAfgAMbGB2uHQAA2NvbHNxAH4ADP0v59B0AAREb3duc3EAfgAMtoQeMHQABExlZnRzcQB+AAzhbwbGdAAFY2xvbmVzcQB+AAwSpNqydAAHdGVycmFpbnNxAH4ADMrT1k90AAYkaW5pdCRzcQB+AAyKONAvdAAHaXNMZWdhbHNxAH4ADFlJ3PJ0AApzdGFydEJsb2Nrc3EAfgAMEnjrOnQACmlzU3RhbmRpbmdzcQB+AAwBvCtydAACVXBzcQB+AAxELzrAdAATU3RyaW5nUGFyc2VyVGVycmFpbnNxAH4ADLA5GSp0AARjb3B5c3EAfgAMA63IpnQACHRvU3RyaW5nc3EAfgAMRMNRz3QACGZpbmRDaGFyc3EAfgAM/jPmfXQAA1Bvc3NxAH4ADKdEIux0AAIhPXNxAH4ADIUWGqt0AAhnZXRDbGFzc3NxAH4ADB+6KiZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADBwvxbB0AAdUZXJyYWluc3EAfgAMKpPVsXQAAm5lc3EAfgAMyz8123QACHN0YXJ0UG9zc3EAfgAMzbTk9nQABUJsb2Nrc3EAfgAMLdnEsnQABVJpZ2h0c3EAfgAML662vXQAAmVxc3EAfgAMpaoC9HQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADNvtN3N0AAVyaWdodHNxAH4ADIwbw7R0AAIjI3NxAH4ADF/eUYB0AAhmaW5hbGl6ZXNxAH4ADNTEdhB0AA5wcm9kdWN0RWxlbWVudHNxAH4ADKYwVax0AAhoYXNoQ29kZXNxAH4ADBUN5MF0AAVsZXZlbHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJ14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0ABtzdHJlYW1zLlN0cmluZ1BhcnNlclRlcnJhaW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+ALZ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ALUAcHNxAH4AunNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCdTAAJaW5oZXJpdGVkcQB+AJ1MAAdwYXJlbnRzcQB+AJ14cQB+AL5zcQB+ALUAcHNxAH4AunVxAH4AmAAAAABzcQB+ALUAcHNxAH4AunVxAH4AmAAAAABzcQB+ALUAcHNxAH4AunVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AvXQAB0dhbWVEZWZzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AL1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAB3N0cmVhbXNzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A23NxAH4AznQABk9iamVjdHNxAH4A0nNxAH4A1XVxAH4A2AAAAANzcQB+ANp0AARqYXZhc3EAfgDadAAEbGFuZ3EAfgDfc3EAfgDOdAADQW55c3EAfgDSc3EAfgDVdXEAfgDYAAAAAnNxAH4A2nQABXNjYWxhcQB+AN91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdzdHJlYW1zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFakfxVb3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEUvVXNlcnMvZG9taW5pa3N6Y3plcGFuc2tpL0Rvd25sb2Fkcy9zdHJlYW1zL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRtetCotl8DgJINr1O8jK2raGHa4A==
+external apis:
+0 items
+source infos:
+6 items
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> 
+AAAAAAAAAAA=
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/GameDef.scala -> 
+AAAAAAAAAAA=
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> 
+AAAAAAAAAAA=
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/Solver.scala -> 
+AAAAAAAAAAA=
+/Users/dominikszczepanski/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpH2aNx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9kb21pbmlrc3pjemVwYW5za2kvRG93bmxvYWRzL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpH55At1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9kb21pbmlrc3pjemVwYW5za2kvRG93bmxvYWRzL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpH8VW91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9kb21pbmlrc3pjemVwYW5za2kvRG93bmxvYWRzL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
